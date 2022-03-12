@@ -1,0 +1,8 @@
+BasedOnStyle: Chromium
+AlignConsecutiveAssignments: 'true'
+AlwaysBreakBeforeMultilineStrings: 'true'
+ColumnLimit: '80'
+IndentWidth: '2'
+PointerAlignment: Right
+SpaceAfterCStyleCast: 'true'
+TabWidth: '2'
